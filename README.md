@@ -5,7 +5,7 @@ A Python-based data analysis project that processes e-commerce customer and sale
 ---
 
 ## 📁 Project Structure
-
+```
 customer_data_insights/
 │
 ├── datasets/
@@ -28,7 +28,7 @@ customer_data_insights/
 ├── customer_data_insights.ipynb
 ├── summary_results.csv
 └── README.md
-
+```
 ---
 
 ## Getting Started
