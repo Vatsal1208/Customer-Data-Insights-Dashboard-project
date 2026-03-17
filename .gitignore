@@ -1,0 +1,6 @@
+Mini_Project_Customer_Data_Insights_Dashboard.docx
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
