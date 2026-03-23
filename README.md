@@ -175,5 +175,5 @@ This analysis provides valuable insights into customer behavior, product perform
 ## 👤 Author
 
 **Vatsal**
-Mini Project — November 2025
+Mini Project
 Python Data Analysis | Pandas | NumPy | Matplotlib
